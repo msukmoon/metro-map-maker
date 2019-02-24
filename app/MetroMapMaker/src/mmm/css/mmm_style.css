@@ -1,0 +1,67 @@
+/*
+    This style sheet stylizes the controls inside our
+    Metro Map Maker JavaFX application. Note that controls
+    in the UI must have the same class as those below in 
+    order to be rendered using those properties.
+
+    @author Richard McKenna
+    @author Myungsuk Moon
+    @version 1.0
+*/
+
+.color-picker {
+    -fx-pref-width: 125;
+}
+
+.button {
+    -fx-background-color: linear-gradient(beige, whitesmoke);
+    -fx-background-radius: 3.0;
+    -fx-border-color: brown;
+    -fx-border-radius: 3.0;    
+    -fx-padding: 0 15 0 15;
+    -fx-pref-height: 30;
+}
+
+.combo-box-base {
+    -fx-font-size: 14px;
+    -fx-background-color: linear-gradient(beige, whitesmoke);
+    -fx-background-radius: 3.0;
+    -fx-border-color: brown;
+    -fx-border-radius: 3.0; 
+    -fx-pref-height: 35;
+    -fx-pref-width: 125;
+}
+
+.bordered_pane {
+    -fx-background-color: #9ea2ac;
+    -fx-background-radius: 5.0;
+    -fx-padding: 7.5 5 7.5 5;
+    -fx-spacing: 5;
+    -fx-border-width: 2px;
+    -fx-border-color: #d4e3f0;
+}
+
+.edit_toolbar_row {
+    -fx-padding: 0px;
+    -fx-spacing: 10;
+    -fx-background-color: #c8b08b;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 2px;
+    -fx-border-color: #757c83;
+}
+
+.edit_toolbar_label {
+    -fx-font-size: 15px;
+}
+
+.edit_toolbar_button {
+    -fx-font-size: 14px;
+    -fx-background-color: linear-gradient(beige, whitesmoke);
+    -fx-background-radius: 3.0;
+    -fx-border-color: brown;
+    -fx-border-radius: 3.0;    
+    -fx-padding: 0 10 0 10;
+    -fx-pref-height: 50;
+}

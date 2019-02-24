@@ -1,0 +1,72 @@
+package mmm;
+
+/**
+ *
+ * @author myungsuk
+ */
+public enum mmmLanguageProperty {
+    GRID_IMAGE,
+    
+    SELECTION_TOOL_ICON,
+    SELECTION_TOOL_TOOLTIP,
+    
+    REMOVE_ICON,
+    REMOVE_TOOLTIP,
+    
+    CUT_ICON,
+    CUT_TOOLTIP,
+
+    COPY_ICON,
+    COPY_TOOLTIP,
+    
+    PASTE_ICON,
+    PASTE_TOOLTIP,
+    
+    UNDO_ICON,
+    UNDO_TOOLTIP,
+    
+    REDO_ICON,
+    REDO_TOOLTIP,
+    
+    SETTINGS_ICON,
+    SETTINGS_TOOLTIP,
+    
+    ABOUT_ICON,
+    ABOUT_TOOLTIP,
+    
+    PLUS_ICON,
+    PLUS_TOOLTIP,
+    
+    MINUS_ICON,
+    MINUS_TOOLTIP,
+    
+    EDIT_ICON,
+    EDIT_TOOLTIP,
+    
+    LIST_ICON,
+    LIST_TOOLTIP,
+    
+    ROTATE_ICON,
+    ROTATE_TOOLTIP,
+    
+    DIRECTION_ICON,
+    DIRECTION_TOOLTIP,
+    
+    BOLD_ICON,
+    BOLD_TOOLTIP,
+    
+    ITALIC_ICON,
+    ITALIC_TOOLTIP,
+    
+    ZOOMIN_ICON,
+    ZOOMIN_TOOLTIP,
+    
+    ZOOMOUT_ICON,
+    ZOOMOUT_TOOLTIP,
+    
+    INCREASE_ICON,
+    INCREASE_TOOLTIP,
+    
+    DECREASE_ICON,
+    DECREASE_TOOLTIP,
+}
