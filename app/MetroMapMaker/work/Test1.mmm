@@ -1,0 +1,230 @@
+
+{
+    "name":"Test1",
+    "lines":[
+        {
+            "line_name":"Line 2",
+            "line_color":{
+                "red":0.800000011920929,
+                "green":0.4000000059604645,
+                "blue":0.20000000298023224,
+                "alpha":1.0
+            },
+            "line_circular":false,
+            "line_texts":[
+                {
+                    "line_name":"Line 2",
+                    "x":32.0,
+                    "y":280.0
+                },
+                {
+                    "line_name":"Line 2",
+                    "x":508.0,
+                    "y":320.0
+                }
+            ],
+            "line_stations":[
+                {
+                    "station_name":"21",
+                    "x":120.0,
+                    "y":300.0,
+                    "station_isonline":true,
+                    "station_location":1,
+                    "station_rotation":1,
+                    "station_lines":[
+                        "Line 2"
+                    ]
+                },
+                {
+                    "station_name":"22",
+                    "x":180.0,
+                    "y":300.0,
+                    "station_isonline":true,
+                    "station_location":1,
+                    "station_rotation":1,
+                    "station_lines":[
+                        "Line 2"
+                    ]
+                },
+                {
+                    "station_name":"12",
+                    "x":270.0,
+                    "y":300.0,
+                    "station_isonline":true,
+                    "station_location":1,
+                    "station_rotation":1,
+                    "station_lines":[
+                        "Line 1",
+                        "Line 2"
+                    ]
+                },
+                {
+                    "station_name":"23",
+                    "x":390.0,
+                    "y":300.0,
+                    "station_isonline":true,
+                    "station_location":1,
+                    "station_rotation":1,
+                    "station_lines":[
+                        "Line 2"
+                    ]
+                }
+            ],
+            "line_transfers":[
+                "Line 1"
+            ]
+        },
+        {
+            "line_name":"Line 1",
+            "line_color":{
+                "red":0.501960813999176,
+                "green":0.4000000059604645,
+                "blue":0.800000011920929,
+                "alpha":1.0
+            },
+            "line_circular":false,
+            "line_texts":[
+                {
+                    "line_name":"Line 1",
+                    "x":270.0,
+                    "y":90.0
+                },
+                {
+                    "line_name":"Line 1",
+                    "x":270.0,
+                    "y":570.0
+                }
+            ],
+            "line_stations":[
+                {
+                    "station_name":"11",
+                    "x":270.0,
+                    "y":210.0,
+                    "station_isonline":true,
+                    "station_location":1,
+                    "station_rotation":1,
+                    "station_lines":[
+                        "Line 1"
+                    ]
+                },
+                {
+                    "station_name":"12",
+                    "x":270.0,
+                    "y":300.0,
+                    "station_isonline":true,
+                    "station_location":1,
+                    "station_rotation":1,
+                    "station_lines":[
+                        "Line 1",
+                        "Line 2"
+                    ]
+                },
+                {
+                    "station_name":"13",
+                    "x":270.0,
+                    "y":390.0,
+                    "station_isonline":true,
+                    "station_location":1,
+                    "station_rotation":1,
+                    "station_lines":[
+                        "Line 1"
+                    ]
+                },
+                {
+                    "station_name":"14",
+                    "x":270.0,
+                    "y":480.0,
+                    "station_isonline":true,
+                    "station_location":1,
+                    "station_rotation":1,
+                    "station_lines":[
+                        "Line 1"
+                    ]
+                }
+            ],
+            "line_transfers":[
+                "Line 2"
+            ]
+        }
+    ],
+    "stations":[
+        {
+            "station_name":"11",
+            "x":270.0,
+            "y":210.0,
+            "station_isonline":true,
+            "station_location":1,
+            "station_rotation":1,
+            "station_lines":[
+                "Line 1"
+            ]
+        },
+        {
+            "station_name":"22",
+            "x":180.0,
+            "y":300.0,
+            "station_isonline":true,
+            "station_location":1,
+            "station_rotation":1,
+            "station_lines":[
+                "Line 2"
+            ]
+        },
+        {
+            "station_name":"12",
+            "x":270.0,
+            "y":300.0,
+            "station_isonline":true,
+            "station_location":1,
+            "station_rotation":1,
+            "station_lines":[
+                "Line 1",
+                "Line 2"
+            ]
+        },
+        {
+            "station_name":"23",
+            "x":390.0,
+            "y":300.0,
+            "station_isonline":true,
+            "station_location":1,
+            "station_rotation":1,
+            "station_lines":[
+                "Line 2"
+            ]
+        },
+        {
+            "station_name":"13",
+            "x":270.0,
+            "y":390.0,
+            "station_isonline":true,
+            "station_location":1,
+            "station_rotation":1,
+            "station_lines":[
+                "Line 1"
+            ]
+        },
+        {
+            "station_name":"14",
+            "x":270.0,
+            "y":480.0,
+            "station_isonline":true,
+            "station_location":1,
+            "station_rotation":1,
+            "station_lines":[
+                "Line 1"
+            ]
+        },
+        {
+            "station_name":"21",
+            "x":120.0,
+            "y":300.0,
+            "station_isonline":true,
+            "station_location":1,
+            "station_rotation":1,
+            "station_lines":[
+                "Line 2"
+            ]
+        }
+    ]
+}
