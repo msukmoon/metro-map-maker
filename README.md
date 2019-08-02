@@ -2,6 +2,13 @@
 
 Metro Map Maker is a JavaFX Application that lets the user to draw their metro systems map and then find minimum transfer route. Undo and redo edit are implemented with the help of the transaction system. It can also save and load work and export to the specified webpage (made by Professor Richard McKenna) written in HTML, CSS and JavaScript.
 
+<p align="center">
+  <img src="doc/MetroMapMaker_Screenshots/WelcomePage.PNG" title="WelcomePage">
+  <img src="doc/MetroMapMaker_Screenshots/MainWorkspace-1.PNG" title="MainWorkspace-1">
+  <img src="doc/MetroMapMaker_Screenshots/MainWorkspace-2.PNG" title="MainWorkspace-2">
+  <img src="doc/MetroMapMaker_Screenshots/MainWorkspace-3.PNG" title="MainWorkspace-3">
+</p>
+
 ## Getting Started
 
 This project comprises source codes, supplementary documents and distributable JAR file to execute the program.
